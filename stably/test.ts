@@ -1,2 +1,1 @@
-// Test code
-const x = 1;
+const updated = true
